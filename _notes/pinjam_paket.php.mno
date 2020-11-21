@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_pinjam;datatype:int,name:nisn_nip;datatype:string,name:tanggal_pinjam;datatype:blob,name:mata_pelajaran;datatype:string,name:kelas_semester;datatype:string,name:kode_buku;datatype:string,name:jumlah;datatype:int,name:tanggal_kembali;datatype:blob" />
+	<infoitem key="UD_Recordset2" value="name:mata_pelajaran;datatype:blob" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_siswa;datatype:int,name:nisn;datatype:int,name:nama;datatype:string,name:ttl;datatype:string,name:jenis_kelamin;datatype:string,name:paket_keahlian;datatype:string,name:angkatan;datatype:string,name:alamat;datatype:string,name:no_telepon;datatype:int" />
+</info>
